@@ -1,7 +1,7 @@
 # 👋 Hello, Welcome to My GitHub!
 
 ## 🕶️ Optical Designer
-I'm a dedicated and detail-oriented optical designer, specializing in the design and programming of optical systems. I use a combination of Python, VBA, Code V, and Lighttools to develop sophisticated optical programs.
+I'm a dedicated and detail-oriented optical designer, specializing in the design and programming of optical systems. I use Python, VBA, Code V, and Lighttools to develop sophisticated optical programs.
 
 ## 🐍 Python Enthusiast
 I primarily use Python for developing optical programs. One of my key projects involved converting Qbfs to Aspheres, showcasing my proficiency in Python and its application in optics.
@@ -10,7 +10,7 @@ I primarily use Python for developing optical programs. One of my key projects i
 I have demonstrated expertise in using VBA to create effective tools for optical design, including:
 - Paraxial Ray Tracing from System Matrix and Gaussian Brackets
 - Finite Ray Tracing
-- Aberration Charts (LONGITUDINAL SPHERICAL ABERRATION, Astigmatic Field Curves, Distortion, Rayfan)
+- Aberration Charts (Longitudinal Spherical Aberration, Astigmatic Field Curves, Distortion, Rayfan)
 - Spot Diagram Chart
 - Lens Layout
 
