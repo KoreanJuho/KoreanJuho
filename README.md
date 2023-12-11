@@ -21,7 +21,7 @@ As a student majoring in Optical Engineering, I'm diligently working towards ach
 Residing in South Korea, I am deeply passionate about technology and development, continually striving to apply and broaden my knowledge in optical engineering.
 
 ## ✍️ Tech Writer
-I regularly write articles on [my personal blog](https://koreanjuho.github.io/), sharing insights and experiences about the field of optical design.
+I regularly write articles on [my personal blog]([https://koreanjuho.github.io/](https://jhle01394.tistory.com/), sharing insights and experiences about the field of optical design.
 
 ## 💡 Code V and Lighttools Experiences
 As an optical designer, I've had the opportunity to work on a variety of projects using Code V and Lighttools, demonstrating my versatility and adaptability in optics. These projects include:
